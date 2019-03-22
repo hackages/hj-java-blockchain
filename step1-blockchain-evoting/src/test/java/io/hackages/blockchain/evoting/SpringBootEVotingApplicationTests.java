@@ -1,4 +1,4 @@
-package io.hackages.experimentvoting;
+package io.hackages.blockchain.evoting;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,10 +7,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ExperimentVotingApplicationTests {
+public class SpringBootEVotingApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
-
+    @Test
+    public void contextLoads() {
+    }
 }
